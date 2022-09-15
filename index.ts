@@ -1,43 +1,5 @@
 
-// type Carro = {
-//     id: number;
-//     modelo: string;
-//     ano: number;
-//     fabricante: string;
-// }
 
-// let numero: number = 1;
-
-// const carro: Carro = {
-//     id: 1,
-//     modelo: "Tiburion V6",
-//     ano: 2011,
-//     fabricante: "hyundai"
-// }
-// enum Qualquer {
-//     idade1 = 20,
-//     idade2 = 2
-// }
-// function somaIdade(n1: number, n2: number){
-//     console.log(n1 + n2);
-// }
-// somaIdade(20, 21);
-// console.log('oi');
-// [1,2,3,4].map((numero) =>{
-//     // return numero * 2;
-//     console.log(numero);
-// })
-// const meuArray = [1, 2, 3];
-// const meuNovoArray = [...meuArray, 4];
-// console.log(meuNovoArray);
-
-// [1,2,3,4,5,6,7,8].filter((numero)=>{
-//      return numero % 2 === 0? true : false;     
-// })
-
-// [1,2,3,4,5,6].reduce((acumulador, atual) =>{
-//     return acumulador + atual;
-// })
 const produtos  = [
   {
     id: 1,
