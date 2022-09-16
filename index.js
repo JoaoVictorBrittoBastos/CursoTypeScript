@@ -33,9 +33,10 @@ function awewa(w, quant) {
     let cont = 0;
     let matriz = [];
     for (let i = 0; i < w; i++) {
-        for (let j = 0; j < quant; j++) {
-            arrayMat = [i, j];
-        }
+        cont = i;
+    }
+    for (let j = 0; j < quant; j++) {
+        console.log(arrayMat = [{ i, j }]);
     }
     // matriz = i * j;
 }
